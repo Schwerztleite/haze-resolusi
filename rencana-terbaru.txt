@@ -1,4 +1,5 @@
 rencana terbaru
 
 -data science
--cyber sescurity
+-cyber security
+  *maybe hacking?
