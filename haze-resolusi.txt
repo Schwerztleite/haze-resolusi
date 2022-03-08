@@ -1,6 +1,7 @@
 Haze Resolusi
 - belajar github
 - 100% java di codecademy
+  *python
   *C++
 - 70 wpm average speed at typeracer
 - hapal juz 30
