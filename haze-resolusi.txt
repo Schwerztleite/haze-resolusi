@@ -2,6 +2,7 @@ Haze Resolusi
 - belajar github
 - 100% java di codecademy
   *python
-- 70 wpm average speed
+  *C++
+- 70 wpm average speed at typeracer
 - hapal juz 30
 - kuat skipping 60 menit
