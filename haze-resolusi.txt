@@ -3,6 +3,7 @@ Haze Resolusi
 - 100% java di codecademy
   *python
   *C++
+  *nodeJS
 - 70 wpm average speed at typeracer
 - hapal juz 30
 - kuat skipping 60 menit
