@@ -1,2 +1,3 @@
-# haze-resolusi(belajar github web programming unpas)
+# haze-resolusi
 repository untuk menyimpan rencana kedepannya
+(belajar github web programming unpas)
