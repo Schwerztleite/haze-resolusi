@@ -6,4 +6,4 @@ Haze Resolusi
   *nodeJS
 - 70 wpm average speed at typeracer
 - hapal juz 30
-- kuat skipping 60 menit
+
